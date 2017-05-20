@@ -1,0 +1,21 @@
+{
+  "name": "mean",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Murilo Marchi <murilo_marchi@outlook.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/muriloowner/mean",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
